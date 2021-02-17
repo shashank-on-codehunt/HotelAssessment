@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HotelServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-16T11:24:50" hostname="DESKTOP-FO0HJDE" time="7.363">
+  <properties/>
+  <testcase name="testCalculateBestHotelForPricenRating[0]" classname="HotelServiceTest" time="5.04"/>
+  <testcase name="testCalculateBestHotelForPricenRating[1]" classname="HotelServiceTest" time="2.323"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
